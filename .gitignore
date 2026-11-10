@@ -18,3 +18,9 @@ htmlcov/
 # macOS and IDE
 .DS_Store
 .vscode/
+
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
